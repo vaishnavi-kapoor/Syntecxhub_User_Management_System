@@ -1,1 +1,0 @@
-"# Syntecxhub User Management System" 
