@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f6f8;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 680px;
+  margin: 24px auto;
+  background: #fff;
+  border-radius: 12px;
+  padding: 24px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.card {
+  border: 1px solid #e6e8eb;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+form {
+  display: grid;
+  gap: 8px;
+}
+
+input,
+button {
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #d3d8df;
+}
+
+button {
+  cursor: pointer;
+  background: #2463eb;
+  color: #fff;
+  border: none;
+}
+
+button.danger {
+  background: #ce2b37;
+  margin-top: 8px;
+}
+
+#output {
+  background: #111827;
+  color: #e5e7eb;
+  padding: 12px;
+  border-radius: 8px;
+  min-height: 100px;
+  white-space: pre-wrap;
+}
