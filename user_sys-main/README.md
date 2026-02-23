@@ -1,4 +1,4 @@
-# Full Stack Auth Demo (Fresher-Friendly)
+# Full Stack Auth Demo
 
 A clean, readable full-stack authentication project with:
 
@@ -53,14 +53,13 @@ A clean, readable full-stack authentication project with:
 
 ---
 
-## 2) Backend Flow (Easy to Understand)
+## 2) Backend Flow 
 
 1. **Route** receives API call.
 2. **Controller** handles request/response.
 3. **Service** contains business logic + MongoDB operations.
 4. **Middleware** handles auth and errors.
 
-This keeps code beginner-friendly and scalable.
 
 ---
 
@@ -128,7 +127,7 @@ Open Vite URL shown in terminal (usually `http://localhost:5173`).
 
 ---
 
-## 7) Notes for Freshers
+## 7) Notes 
 
 - Start from `routes` to understand entry points.
 - Then open matching `controller` and `service` files.
